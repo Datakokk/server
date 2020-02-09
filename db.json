@@ -1,6 +1,6 @@
 {
   "Andromeda":[
-    "persona1"={"nombre":"Victor", "apellido":"Blanco"},
-    "persona2"={"nombre":"Fernando", "apellido":"Calvo"}
+    {"nombre":"Victor", "apellido":"Blanco"},
+    {"nombre":"Fernando", "apellido":"Calvo"}
   ]
 }
