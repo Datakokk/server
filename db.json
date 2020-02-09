@@ -50,7 +50,7 @@
     "id": "ES-28-001" , "temps" : [
       {"fecha" : "2019-06-03", "temp_min": 3.2, "temp_max": 9.8, "cielo": "Tormentas"},
       {"fecha" : "2019-06-04", "temp_min": 3.5, "temp_max": 9.8, "cielo": "Tormentas"},
-      {"fecha" : "2019-06-06", "temp_min": 3.9, "temp_max": 9.8, "cielo": "Tormentas"}
+      {"fecha" : "2019-06-06", "temp_min": 3.9, "temp_max": 9.7, "cielo": "Tormentas"}
     ]
   }              
 ],
