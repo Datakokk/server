@@ -29,7 +29,13 @@
              "Nombre": "Toledo",
              "País": "Estados Unidos",
              "id": "EU-55-008"
-           }],
+           },
+           {
+             "Nombre": "Oslo",
+             "País": "Noruega",
+             "id": "NO-45-008"
+           }       
+         ],
      
            "temperaturas": [
              {
@@ -80,7 +86,14 @@
                "temp_min": 3.5,
                "temp_max": 9.5,
                "cielo": "Tormentas"
-             }              
+             },
+             {
+               "id" : "NO-45-008",
+               "fecha" : "2019-02-28",
+               "temp_min": -10.5,
+               "temp_max": 1.5,
+               "cielo": "Nieve"
+             }   
            ],
    
    "datos_json":[
