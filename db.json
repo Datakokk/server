@@ -1,6 +1,6 @@
 {
    "datos" : [
-      {  "localizaciones":[
+         "localizaciones":[
            {
              "Nombre": "Madrid",
              "País": "España",
@@ -83,7 +83,7 @@
                "cielo": "Tormentas"
              }              
            ]
-         }
+         
    ],
    "datos_json":[
   {
