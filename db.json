@@ -1,4 +1,10 @@
 {
+   "localizaciones":[
+           {
+             "Nombre": "Madrid",
+             "País": "España",
+             "id": "ES-28-001"
+           }],
    "datos" : [
       {
          "localizaciones":[
