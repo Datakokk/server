@@ -5,6 +5,14 @@
              "País": "España",
              "id": "ES-28-001"
            }],
+   "temperaturas": [
+             {
+               "id" : "ES-28-001",
+               "fecha" : "2019-02-28",
+               "temp_min": 1.6,
+               "temp_max": 13.5,
+               "cielo": "Soleado"
+             }],
    "datos" : [
       {
          "localizaciones":[
