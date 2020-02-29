@@ -171,15 +171,7 @@
     "release_date": "2013",
     "rt_score": "100"
   },
-  {
-    "id": "5fdfb320-2a02-49a7-94ff-5ca418cae602",
-    "title": "When Marnie Was There",
-    "description": "The film follows Anna Sasaki living with her relatives in the seaside town. Anna comes across a nearby abandoned mansion, where she meets Marnie, a mysterious girl who asks her to promise to keep their secrets from everyone. As the summer progresses, Anna spends more time with Marnie, and eventually Anna learns the truth about her family and foster care.",
-    "id_director": "D-00-055",
-    "producer": "Yoshiaki Nishimura",
-    "release_date": "2014",
-    "rt_score": "92"
-  }
+  
  ],
 "directores": [ 
   { "id":"D-01-001", "nombre":"Yoshifumi Kondō"},
