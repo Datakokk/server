@@ -35,53 +35,7 @@
     "producer": "Hayao Miyazaki",
     "release_date": "1989",
     "rt_score": "96"
-  },
-  {
-    "id": "4e236f34-b981-41c3-8c65-f8c9000b94e7",
-    "title": "Only Yesterday",
-    "description": "It's 1982, and Taeko is 27 years old, unmarried, and has lived her whole life in Tokyo. She decides to visit her family in the countryside, and as the train travels through the night, memories flood back of her younger years: the first immature stirrings of romance, the onset of puberty, and the frustrations of math and boys. At the station she is met by young farmer Toshio, and the encounters with him begin to reconnect her to forgotten longings. In lyrical switches between the present and the past, Taeko contemplates the arc of her life, and wonders if she has been true to the dreams of her childhood self.",
-    "id_director": "D-02-010",
-    "producer": "Toshio Suzuki",
-    "release_date": "1991",
-    "rt_score": "100"
-  },
-  {
-    "id": "ebbb6b7c-945c-41ee-a792-de0e43191bd8",
-    "title": "Porco Rosso",
-    "description": "Porco Rosso, known in Japan as Crimson Pig (Kurenai no Buta) is the sixth animated film by Hayao Miyazaki and released in 1992. You're introduced to an Italian World War I fighter ace, now living as a freelance bounty hunter chasing 'air pirates' in the Adriatic Sea. He has been given a curse that changed his head to that of a pig. Once called Marco Pagot, he is now known to the world as 'Porco Rosso', Italian for 'Red Pig.'",
-    "id_director": "D-01-003",
-    "producer": "Toshio Suzuki",
-    "release_date": "1992",
-    "rt_score": "94"
-  },
-  {
-    "id": "1b67aa9a-2e4a-45af-ac98-64d6ad15b16c",
-    "title": "Pom Poko",
-    "description": "As the human city development encroaches on the raccoon population's forest and meadow habitat, the raccoons find themselves faced with the very real possibility of extinction. In response, the raccoons engage in a desperate struggle to stop the construction and preserve their home.",
-    "id_director": "D-02-010",
-    "producer": "Toshio Suzuki",
-    "release_date": "1994",
-    "rt_score": "78"
-  },
-  {
-    "id": "ff24da26-a969-4f0e-ba1e-a122ead6c6e3",
-    "title": "Whisper of the Heart",
-    "description": "Shizuku lives a simple life, dominated by her love for stories and writing. One day she notices that all the library books she has have been previously checked out by the same person: 'Seiji Amasawa'. Curious as to who he is, Shizuku meets a boy her age whom she finds infuriating, but discovers to her shock that he is her 'Prince of Books'. As she grows closer to him, she realises that he merely read all those books to bring himself closer to her. The boy Seiji aspires to be a violin maker in Italy, and it is his dreams that make Shizuku realise that she has no clear path for her life. Knowing that her strength lies in writing, she tests her talents by writing a story about Baron, a cat statuette belonging to Seiji's grandfather.",
-    "id_director": "D-01-001",
-    "producer": "Toshio Suzuki",
-    "release_date": "1995",
-    "rt_score": "91"
-  },
-  {
-    "id": "0440483e-ca0e-4120-8c50-4c8cd9b965d6",
-    "title": "Princess Mononoke",
-    "description": "Ashitaka, a prince of the disappearing Ainu tribe, is cursed by a demonized boar god and must journey to the west to find a cure. Along the way, he encounters San, a young human woman fighting to protect the forest, and Lady Eboshi, who is trying to destroy it. Ashitaka must find a way to bring balance to this conflict.",
-    "id_director": "D-01-003",
-    "producer": "Toshio Suzuki",
-    "release_date": "1997",
-    "rt_score": "92"
   }
-  
  ],
 "directores": [ 
   { "id":"D-01-001", "nombre":"Yoshifumi Kondō"},
@@ -227,46 +181,6 @@
     "age": "11",
     "eye_color": "Brown",
     "hair_color": "Brown"
-  },
-  {
-    "id": "d39deecb-2bd0-4770-8b45-485f26e1381f",
-    "name": "Totoro",
-    "gender": "NA",
-    "age": "",
-    "eye_color": "Grey",
-    "hair_color": "Grey"
-  },
-  {
-    "id": "591524bc-04fe-4e60-8d61-2425e42ffb2a",
-    "name": "Chu Totoro",
-    "gender": "NA",
-    "age": "",
-    "eye_color": "Black",
-    "hair_color": "Blue"
-  },
-  {
-    "id": "c491755a-407d-4d6e-b58a-240ec78b5061",
-    "name": "Chibi Totoro",
-    "gender": "NA",
-    "age": "",
-    "eye_color": "Black",
-    "hair_color": "White"
-  },
-  {
-    "id": "f467e18e-3694-409f-bdb3-be891ade1106",
-    "name": "Catbus",
-    "gender": "Male",
-    "age": "NA",
-    "eye_color": "Yellow",
-    "hair_color": "Brown"
-  },
-  {
-    "id": "89026b3a-abc4-4053-ab1a-c6d2eea68faa",
-    "name": "Niya",
-    "gender": "Male",
-    "age": "NA",
-    "eye_color": "White",
-    "hair_color": "Beige"
   }],
 
 "actor_peliculas" : [
