@@ -267,78 +267,6 @@
     "age": "NA",
     "eye_color": "White",
     "hair_color": "Beige"
-  },
-  {
-    "id": "6b3facea-ea33-47b1-96ce-3fc737b119b8",
-    "name": "Renaldo Moon aka Moon aka Muta",
-    "gender": "Male",
-    "age": "NA",
-    "eye_color": "White",
-    "hair_color": "Beige"
-  },
-  {
-    "id": "3042818d-a8bb-4cba-8180-c19249822d57",
-    "name": "Cat King",
-    "gender": "Male",
-    "age": "87",
-    "eye_color": "Emerald",
-    "hair_color": "Grey"
-  },
-  {
-    "id": "58d1973f-f247-47d7-9358-e56cb0d2b5a6",
-    "name": "Yuki",
-    "gender": "Female",
-    "age": "NA",
-    "eye_color": "Blue",
-    "hair_color": "White"
-  },
-  {
-    "id": "a3d8e70f-46a0-4e5a-b850-db01620d6b92",
-    "name": "Haru",
-    "gender": "Female",
-    "age": "13",
-    "eye_color": "Brown",
-    "hair_color": "Brown"
-  },
-  {
-    "id": "fc196c4f-0201-4ed2-9add-c6403f7c4d32",
-    "name": "Baron Humbert von Gikkingen",
-    "gender": "Male",
-    "age": "NA",
-    "eye_color": "Green",
-    "hair_color": "Yellow"
-  },
-  {
-    "id": "466bc926-2024-4653-ac63-fe52f2dc8c7b",
-    "name": "Natori",
-    "gender": "Male",
-    "age": "NA",
-    "eye_color": "Blue",
-    "hair_color": "Grey"
-  },
-  {
-    "id": "40c005ce-3725-4f15-8409-3e1b1b14b583",
-    "name": "Colonel Muska",
-    "gender": "Male",
-    "age": "33",
-    "eye_color": "Grey",
-    "hair_color": "Brown"
-  },
-  {
-    "id": "6523068d-f5a9-4150-bf5b-76abe6fb42c3",
-    "name": "Porco Rosso",
-    "gender": "Male",
-    "age": "47",
-    "eye_color": "Black",
-    "hair_color": "Brown"
-  },
-  {
-    "id": "a10f64f3-e0b6-4a94-bf30-87ad8bc51607",
-    "name": "Sosuke",
-    "gender": "Male",
-    "age": "5",
-    "eye_color": "Brown",
-    "hair_color": "Brown"
   }],
 
 "actor_peliculas" : [
@@ -510,24 +438,6 @@
     "id_actor": "466bc926-2024-4653-ac63-fe52f2dc8c7b",
     "id_peliculas": [
       "90b72513-afd4-4570-84de-a56c312fdf81"
-    ]
-  },
-  {
-    "id_actor": "40c005ce-3725-4f15-8409-3e1b1b14b583",
-    "id_peliculas": [
-      "2baf70d1-42bb-4437-b551-e5fed5a87abe"
-    ]
-  },
-  {
-    "id_actor": "6523068d-f5a9-4150-bf5b-76abe6fb42c3",
-    "id_peliculas": [
-      "ebbb6b7c-945c-41ee-a792-de0e43191bd8"
-    ]
-  },
-  {
-    "id_actor": "a10f64f3-e0b6-4a94-bf30-87ad8bc51607",
-    "id_peliculas": [
-      "758bf02e-3122-46e0-884e-67cf83df1786"
     ]
   }
 ]
