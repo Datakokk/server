@@ -1,11 +1,4 @@
 {
-  "localizaciones":[
-           {
-             "Nombre": "Madrid",
-             "País": "España",
-             "id": "ES-28-001"
-           }     
-         ],
   "peliculas": [
     {
       "id": "2baf70d1-42bb-4437-b551-e5fed5a87abe",
@@ -15,6 +8,24 @@
       "producer": "Isao Takahata",
       "release_date": "1986",
       "rt_score": "95"
+    },
+     {
+      "id": "58611129-2dbc-4a81-a72f-77ddfc1b1b49",
+      "title": "My Neighbor Totoro",
+      "description": "Two sisters move to the country with their father in order to be closer to their hospitalized mother, and discover the surrounding trees are inhabited by Totoros, magical spirits of the forest. When the youngest runs away from home, the older sister seeks help from the spirits to find her.",
+      "id_director": "D-01-003",
+      "producer": "Hayao Miyazaki",
+      "release_date": "1988",
+      "rt_score": "93"
+    },
+    {
+      "id": "ea660b10-85c4-4ae3-8a5f-41cea3648e3e",
+      "title": "Kiki's Delivery Service",
+      "description": "A young witch, on her mandatory year of independent life, finds fitting into a new community difficult while she supports herself by running an air courier service.",
+      "id_director": "D-01-003",
+      "producer": "Hayao Miyazaki",
+      "release_date": "1989",
+      "rt_score": "96"
     }
     ],
   "directores": [ 
