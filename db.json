@@ -1,37 +1,4 @@
 {
-  "ciudades":[
-  {
-    "ciudad": "Madrid",
-    "id": 1,
-    "UTC": 1,
-    "mostrar": true
-  },
-  {
-    "ciudad": "Nueva York",
-    "id": 2,
-    "UTC": -5
-  },
-  {
-    "ciudad": "Los Ángeles",
-    "id": 3,
-    "UTC": -8
-  },
-  {
-    "ciudad": "Tokio",
-    "id": 4,
-    "UTC": 9
-  },
-  {
-    "ciudad": "Beijing",
-    "id": 5,
-    "UTC": 8
-  },
-  {
-    "ciudad": "Moscú",
-    "id": 6,
-    "UTC": 3
-  }
-],
   "localizaciones":[
            {
              "Nombre": "Madrid",
