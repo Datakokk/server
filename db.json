@@ -5,7 +5,44 @@
              "País": "España",
              "id": "ES-28-001"
            }     
-         ]
+         ],
+  "peliculas": [
+    {
+      "id": "2baf70d1-42bb-4437-b551-e5fed5a87abe",
+      "title": "Castle in the Sky",
+      "description": "The orphan Sheeta inherited a mysterious crystal that links her to the mythical sky-kingdom of Laputa. With the help of resourceful Pazu and a rollicking band of sky pirates, she makes her way to the ruins of the once-great civilization. Sheeta and Pazu must outwit the evil Muska, who plans to use Laputa's science to make himself ruler of the world.",
+      "id_director": "D-01-003",
+      "producer": "Isao Takahata",
+      "release_date": "1986",
+      "rt_score": "95"
+    }
+    ],
+  "directores": [ 
+    { "id":"D-01-001", "nombre":"Yoshifumi Kondō"},
+    { "id":"D-01-003", "nombre":"Hayao Miyazaki"},
+    { "id":"D-10-006", "nombre":"Gorō Miyazaki"},
+    { "id":"D-03-008", "nombre":"Hiroyuki Morita"},
+    { "id":"D-02-010", "nombre":"Isao Takahata"},
+    { "id":"D-00-055", "nombre":"Hiromasa Yonebayashi"}
+  ],
+   "actores": [
+      {
+      "id": "40c005ce-3725-4f15-8409-3e1b1b14b583",
+      "name": "Colonel Muska",
+      "gender": "Male",
+      "age": "33",
+      "eye_color": "Grey",
+      "hair_color": "Brown"
+      }
+    ],
+   "actor_peliculas" : [
+    {
+      "id_actor": "40c005ce-3725-4f15-8409-3e1b1b14b583",
+      "id_peliculas": [
+        "2baf70d1-42bb-4437-b551-e5fed5a87abe"
+      ]
+     }
+   ]
 }
    
   
