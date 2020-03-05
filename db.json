@@ -1,13 +1,12 @@
 {
-      "temperaturas": [
-             {
-               "id" : "ES-28-001",
-               "fecha" : "2019-02-28",
-               "temp_min": 1.6,
-               "temp_max": 13.5,
-               "cielo": "Soleado"
-             } 
-           ],
+      "directores": [ 
+    { "id":"D-01-001", "nombre":"Yoshifumi Kondō"},
+    { "id":"D-01-003", "nombre":"Hayao Miyazaki"},
+    { "id":"D-10-006", "nombre":"Gorō Miyazaki"},
+    { "id":"D-03-008", "nombre":"Hiroyuki Morita"},
+    { "id":"D-02-010", "nombre":"Isao Takahata"},
+    { "id":"D-00-055", "nombre":"Hiromasa Yonebayashi"}
+  ]
 }
    
   
